@@ -1,0 +1,257 @@
+{
+    "products": [
+        {
+            "id": "sk001",
+            "name": "marley polka dot midi skirt",
+            "type": "skirt",
+            "color": "polka dot",
+            "size": "3t",
+            "description":"You will love this polka-dot midi skirt for the little girl in your life.  It is high quality material with a slight stretch and a comfortable waistline.  Your daughter will love wearing this beautiful little skirt.  And the possibilities are endless.  Don't let your little one miss out on the polka-dot midi trend!",
+            "price": 11.99,
+            "inventory": 15
+        },
+
+        {
+            "id": "sk002",
+            "name": "marley polka dot midi",
+            "type": "skirt",
+            "color": "polka dot",
+            "size": "4t",
+            "description":"You will love this polka-dot midi skirt for the little girl in your life.  It is high quality material with a slight stretch and a comfortable waistline.  Your daughter will love wearing this beautiful little skirt.  And the possibilities are endless.  Don't let your little one miss out on the polka-dot midi trend!",
+            "price": 11.99,
+            "inventory":9
+        },
+        {
+            "id": "sk003",
+            "name": "marley polka dot midi",
+            "type": "skirt",
+            "color": "polka dot",
+            "size": "5t",
+            "description":"You will love this polka-dot midi skirt for the little girl in your life.  It is high quality material with a slight stretch and a comfortable waistline.  Your daughter will love wearing this beautiful little skirt.  And the possibilities are endless.  Don't let your little one miss out on the polka-dot midi trend!",
+            "price": 11.99,
+            "inventory":8
+        },
+        {
+            "id": "sk004",
+            "name": "marley polka dot midi",
+            "type": "skirt",
+            "color": "polka dot",
+            "size": "6t",
+            "description":"You will love this polka-dot midi skirt for the little girl in your life.  It is high quality material with a slight stretch and a comfortable waistline.  Your daughter will love wearing this beautiful little skirt.  And the possibilities are endless.  Don't let your little one miss out on the polka-dot midi trend!",
+            "price": 11.99,
+            "inventory":3
+        },
+        {
+            "id": "sh001",
+            "name": "marley polka dot midi",
+            "type": "shirt",
+            "color": "plaid",
+            "size": "kid",
+            "description":"Buffalo plaid is so trendy this season!  Now you can include the little person in your life in this darling trend with buffalo plaid for kids!",
+            "price": 11.99,
+            "inventory":1
+        },
+        {
+            "id": "mc001",
+            "name": "polka dot moccisins",
+            "type": "moccisins",
+            "color": "black and silver",
+            "size": "0-3",
+            "description":" This deal is a match made in heaven! Moccasins + Polka-Dots?!  What could be better.  These darling moccs come in five styles and four sizes.  The sizes do run slightly large, so check out the measurements before you decide which size to buy.",
+            "price": 13.99,
+            "inventory":2
+        },
+        {
+            "id": "mc002",
+            "name": "polka dot moccisins",
+            "type": "moccisins",
+            "color": "black and silver",
+            "size": "3-6",
+            "description":" This deal is a match made in heaven! Moccasins + Polka-Dots?!  What could be better.  These darling moccs come in five styles and four sizes.  The sizes do run slightly large, so check out the measurements before you decide which size to buy.",
+            "price": 13.99,
+            "inventory":2
+        },
+        {
+            "id": "mc003",
+            "name": "polka dot moccisins",
+            "type": "moccisins",
+            "color": "black and gold",
+            "size": "0-3",
+            "description":" This deal is a match made in heaven! Moccasins + Polka-Dots?!  What could be better.  These darling moccs come in five styles and four sizes.  The sizes do run slightly large, so check out the measurements before you decide which size to buy.",
+            "price": 13.99,
+            "inventory":2
+        },
+        {
+            "id": "mc004",
+            "name": "polka dot moccisins",
+            "type": "moccisins",
+            "color": "white and aqua",
+            "size": "0-3",
+            "description":" This deal is a match made in heaven! Moccasins + Polka-Dots?!  What could be better.  These darling moccs come in five styles and four sizes.  The sizes do run slightly large, so check out the measurements before you decide which size to buy.",
+            "price": 13.99,
+            "inventory":3
+        },
+        {
+            "id": "sc001",
+            "name": "rainy day socks",
+            "type": "socks",
+            "color": "gray",
+            "size": "0-2",
+            "description":" These darling socks fit babies, 0-2 years.  The print on them is so adorable.  They're perfect to wear with moccasins or rain boots or just wear them by themselves- who needs shoes when your socks are this cute!?  They come in white and gray.",
+            "price": 3.99,
+            "inventory":25
+        },
+        {
+            "id": "sc002",
+            "name": "rainy day socks",
+            "type": "socks",
+            "color": "white",
+            "size": "0-2",
+            "description":" These darling socks fit babies, 0-2 years.  The print on them is so adorable.  They're perfect to wear with moccasins or rain boots or just wear them by themselves- who needs shoes when your socks are this cute!?  They come in white and gray.",
+            "price": 3.99,
+            "inventory":25
+        },
+        {
+            "id": "sc003",
+            "name": "rainy day socks",
+            "type": "socks",
+            "color": "white",
+            "size": "0-2",
+            "description":" These darling socks fit babies, 0-2 years.  The print on them is so adorable.  They're perfect to wear with moccasins or rain boots or just wear them by themselves- who needs shoes when your socks are this cute!?  They come in white and gray.",
+            "price": 3.99,
+            "inventory":25
+        },
+        {
+            "id": "ea001",
+            "name": "vintage oval inspired earrings",
+            "type": "earings",
+            "color": "mint",
+            "size": "girl",
+            "description":"This beautiful earrings will be your go to earrings.  They come in mint, coral and white.",
+            "price": 3.99,
+            "inventory": 4
+        },
+        {
+            "id": "ea002",
+            "name": "vintage oval inspired earrings",
+            "type": "earings",
+            "color": "coral",
+            "size": "girl",
+            "description":"This beautiful earrings will be your go to earrings.  They come in mint, coral and white.",
+            "price": 3.99,
+            "inventory": 3
+        },
+        {
+            "id": "er003",
+            "name": "vintage oval inspired earrings",
+            "type": "earings",
+            "color": "white",
+            "size": "girl",
+            "description":"This beautiful earrings will be your go to earrings.  They come in mint, coral and white.",
+            "price": 3.99,
+            "inventory": 10
+        },
+        {
+            "id": "ne001",
+            "name": "darling dahlia pearls",
+            "type": "necklace",
+            "color": "hot pink",
+            "size": "girl",
+            "description":"Add a little flower to your fall wardrobe.  The Darling Dahlia Pearl necklace is the perfect little statement piece.  It comes in eight fabulous colors, which means you can pick one for every day of the week, plus some!  You will love this sturdy necklace.  Perfect for little girls too!",
+            "price": 6.99,
+            "inventory": 12
+        },
+        {
+            "id": "ne002",
+            "name": "darling dahlia pearls",
+            "type": "necklace",
+            "color": "white",
+            "size": "girl",
+            "description":"Add a little flower to your fall wardrobe.  The Darling Dahlia Pearl necklace is the perfect little statement piece.  It comes in eight fabulous colors, which means you can pick one for every day of the week, plus some!  You will love this sturdy necklace.  Perfect for little girls too!",
+            "price": 6.99,
+            "inventory": 25
+        },
+        {
+            "id": "ne003",
+            "name": "darling dahlia pearls",
+            "type": "necklace",
+            "color": "coral",
+            "size": "girl",
+            "description":"Add a little flower to your fall wardrobe.  The Darling Dahlia Pearl necklace is the perfect little statement piece.  It comes in eight fabulous colors, which means you can pick one for every day of the week, plus some!  You will love this sturdy necklace.  Perfect for little girls too!",
+            "price": 6.99,
+            "inventory": 15
+        },
+        {
+            "id": "ne004",
+            "name": "darling dahlia pearls",
+            "type": "necklace",
+            "color": "light blue",
+            "size": "girl",
+            "description":"Add a little flower to your fall wardrobe.  The Darling Dahlia Pearl necklace is the perfect little statement piece.  It comes in eight fabulous colors, which means you can pick one for every day of the week, plus some!  You will love this sturdy necklace.  Perfect for little girls too!",
+            "price": 6.99,
+            "inventory": 18
+        },
+        {
+            "id": "ne005",
+            "name": "darling dahlia pearls",
+            "type": "necklace",
+            "color": "black",
+            "size": "girl",
+            "description":"Add a little flower to your fall wardrobe.  The Darling Dahlia Pearl necklace is the perfect little statement piece.  It comes in eight fabulous colors, which means you can pick one for every day of the week, plus some!  You will love this sturdy necklace.  Perfect for little girls too!",
+            "price": 6.99,
+            "inventory": 25
+        },
+        {
+            "id": "ne006",
+            "name": "darling dahlia pearls",
+            "type": "necklace",
+            "color": "white",
+            "size": "girl",
+            "description":"Add a little flower to your fall wardrobe.  The Darling Dahlia Pearl necklace is the perfect little statement piece.  It comes in eight fabulous colors, which means you can pick one for every day of the week, plus some!  You will love this sturdy necklace.  Perfect for little girls too!",
+            "price": 6.99,
+            "inventory": 25
+        },
+        {
+            "id": "cha001",
+            "name": "hair chalk",
+            "type": "chalk",
+            "color": "multi-color",
+            "size": "kids",
+            "description":"Hair chalk is the latest trend this season, and the possibilities for fun are endless!!  Applying hair chalk is so simple.  Each package contains 12 colors of chalk, as well as instructions for application.  Have fun coloring your hair without damaging it.  You can wash your hair chalk out whenever you want a change. Use your hair chalk to color the end of your hair or create rainbow braids.  If you want blue all over- go for it!  Color your ponytail to match your bow!  Or you can color a few well-placed strands of hair to match your outfit.  Hair chalk is for boys too!  You can draw designs into short hair.  Hair chalk is perfect for holiday parties, birthday parties, birthday gifts, and any day you want to make extra special.            Don't miss out on this fun, easy trend.  You'll love it! ",
+            "price": 6.99,
+            "inventory": 15
+        },
+        {
+            "id": "cha002",
+            "name": "hair chalk",
+            "type": "chalk",
+            "color": "multi-color",
+            "size": "kids",
+            "description":"Hair chalk is the latest trend this season, and the possibilities for fun are endless!!  Applying hair chalk is so simple.  Each package contains 12 colors of chalk, as well as instructions for application.  Have fun coloring your hair without damaging it.  You can wash your hair chalk out whenever you want a change.            Use your hair chalk to color the end of your hair or create rainbow braids.  If you want blue all over- go for it!  Color your ponytail to match your bow!  Or you can color a few well-placed strands of hair to match your outfit.  Hair chalk is for boys too!  You can draw designs into short hair.  Hair chalk is perfect for holiday parties, birthday parties, birthday gifts, and any day you want to make extra special. Don't miss out on this fun, easy trend.  You'll love it! ",
+            "price": 6.99,
+            "inventory": 15
+        },
+        {
+            "id": "cha003",
+            "name": "hair chalk",
+            "type": "chalk",
+            "color": "multi-color",
+            "size": "kids",
+            "description":"Hair chalk is the latest trend this season, and the possibilities for fun are endless!!  Applying hair chalk is so simple.  Each package contains 12 colors of chalk, as well as instructions for application.  Have fun coloring your hair without damaging it.  You can wash your hair chalk out whenever you want a change. Use your hair chalk to color the end of your hair or create rainbow braids.  If you want blue all over- go for it!  Color your ponytail to match your bow!  Or you can color a few well-placed strands of hair to match your outfit.  Hair chalk is for boys too!  You can draw designs into short hair.  Hair chalk is perfect for holiday parties, birthday parties, birthday gifts, and any day you want to make extra special.            Don't miss out on this fun, easy trend.  You'll love it! ",
+            "price": 6.99,
+            "inventory": 15
+        },
+        {
+            "id": "cha004",
+            "name": "hair chalk",
+            "type": "chalk",
+            "color": "multi-color",
+            "size": "kids",
+            "description":"Hair chalk is the latest trend this season, and the possibilities for fun are endless!!  Applying hair chalk is so simple.  Each package contains 12 colors of chalk, as well as instructions for application.  Have fun coloring your hair without damaging it.  You can wash your hair chalk out whenever you want a change.            Use your hair chalk to color the end of your hair or create rainbow braids.  If you want blue all over- go for it!  Color your ponytail to match your bow!  Or you can color a few well-placed strands of hair to match your outfit.  Hair chalk is for boys too!  You can draw designs into short hair.  Hair chalk is perfect for holiday parties, birthday parties, birthday gifts, and any day you want to make extra special. Don't miss out on this fun, easy trend.  You'll love it! ",
+            "price": 6.99,
+            "inventory": 15
+        }
+
+    ]
+
+}

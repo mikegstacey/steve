@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <title>simple2</title>
+    <style>
+        .ng-cloak {
+            display: none;
+        }
+    </style>
+    <link rel="stylesheet" type="text/css" href="css/app.css">
+</head>
+<body class="ng-cloak">
+<div ng-controller="myCustomer">
+<div> Product list</div>
+
+    <div ng-repeat="type in types"ng-click="selectType(type)" class="category">
+        {{type}}
+    </div>
+</div>
+<!--<div my-label></div>-->
+
+
+
+<!--?ul>-->
+    <!--<li>Ctrl+C = copy</li>-->
+    <!--<li>Ctrl+D = duplicate line</li>-->
+    <!--<li>Alt+Tab = switch windows</li>-->
+    <!--<li>Ctrl+X = cut</li>-->
+    <!--<li>Ctrl+V = paste</li>-->
+    <!--<li>Ctrl+R = Reload in browser</li>-->
+    <!--<li>Ctrl+Z = Undo</li>-->
+    <!--<li>Ctrl+Shift+Z = Redo</li>-->
+
+    <!--<li>free typig.com</li>-->
+<!--</ul>-->
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.6/angular.min.js"></script>
+<script src="app.js"></script>
+<script src="controllers/yours.js"></script>
+<script src="directives/myLabel/myLabel.js"></script>
+<script src="controllers/customer.js"></script>
+</body>
+</html>

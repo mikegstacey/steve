@@ -1,0 +1,16 @@
+html, body {
+    position: relative;
+    box-sizing: border-box;
+    width: 100;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-family: verdana, arial;
+    overflow: hidden;
+}
+.category{
+    color: blue;
+    width: 50%;
+    border: 1px solid #333;
+    margin-bottom: 2px;
+}
