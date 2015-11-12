@@ -19,7 +19,7 @@ angular.module('app').controller('myCustomer', function ($scope, $http) {
     $scope.getTypes = function (){
         var hash = {};
         // for loop $scope.contents.products
-        var products = $scope.contents.products
+        var products = $scope.contents.products;
         var type;
         for(var i = 0; i < products.length; i += 1) {
             type = products[i].type;
